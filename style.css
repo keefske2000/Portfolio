@@ -29,6 +29,7 @@ body {
     margin: 0 auto;
     clear: both;
     
+    
   }
   
   h1,
@@ -63,8 +64,12 @@ body {
   }
 
   .main-section img{
+    position: static;
     width: 250px;
     height: 250px;
+    padding: 20px;
+    margin: 30px;
+    
   }
   
   /* header */
@@ -148,10 +153,11 @@ body {
     float: left;
     width: 100%;
     max-width: 960px;
-    padding: 30px;
+    padding: 0px;
     margin: 0 0 40px;
     background: #ffffff;
     border: 1px solid #dddddd;
+    
   }
   
   /* portfolio page */
