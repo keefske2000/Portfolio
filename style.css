@@ -187,9 +187,10 @@ body {
 
   }
   .gallery img {
-     border-radius: 10%; 
-     height: 150px;
-     width: 150px; 
+     border-radius: 20%; 
+     height: 170px;
+     width: 170px; 
+     margin: 0px;
   }
   .gallery h3 {
     color: black;
