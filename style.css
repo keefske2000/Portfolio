@@ -40,20 +40,22 @@ body {
   }
   
   p:last-child {
-    margin-bottom: 0;
+    margin-bottom: 0px;
+    padding: 0px;
   }
   
   h1,
   h2,
   h3 {
-    font-family: Georgia, Times, "Times New Roman", serif;
+    font-family: 'Shadows Into Light', cursive;
     font-weight: 700;
     color:black;
   }
   
   h1 {
+    font-family: 'Shadows Into Light', cursive;
     padding-bottom: 20px;
-    font-size: 30px;
+    font-size: 50px;
     line-height: 49px;
     border-bottom: 3px solid black;
   }
@@ -91,8 +93,8 @@ body {
     float: left;
     width: 500px;
     height: 90px;
-    font-family: Georgia, Times, "Times New Roman", serif;
-    font-size: 30px;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 50px;
     font-weight: 700;
     line-height: 90px;
     color: black;
@@ -306,14 +308,14 @@ body {
     h1,
     h2,
     h3 {
-      font-family: Georgia, Times, "Times New Roman", serif;
-      font-weight: 700;
+      font-family:  'Shadows Into Light', cursive;
+      font-weight: 200;
       color:black;
     }
     
     h1 {
       padding-bottom: 20px;
-      font-size: 30px;
+      font-size: 50px;
       line-height: 49px;
       border-bottom: 3px solid black;
     }
@@ -346,8 +348,8 @@ body {
       float: left;
       width: 300px;
       height: 90px;
-      font-family: Georgia, Times, "Times New Roman", serif;
-      font-size: 30px;
+      font-family: 'Shadows Into Light', cursive;
+      font-size: 50px;
       font-weight: 700;
       line-height: 90px;
       color: black;
